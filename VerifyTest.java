@@ -444,9 +444,9 @@ public class VerifyTest {
 
 
 
-        // Print ND Array into 1D
+        /*// Print ND Array into 1D
         //int n,m;
-        F int n=2,m=4;
+        int n=2,m=4;
         // {{1,9,3,5},{4,7,6,7,9},{3,4,7,2},{1,5,3,8}};    n=4;m=4;
         //{{1,9,3},{4,7,6},{3,4,7}};   n=3;m=3;
         //{ { 1, 2 }, { 3, 4 } };   n=2;m=2;
@@ -463,7 +463,7 @@ public class VerifyTest {
         System.out.print("Print Array into 1D : ");
         System.out.println(Arrays.toString(array));
         IntStream.of(array).boxed().distinct().sorted().forEach( in -> System.out.print(in+", "));
-
+*/
 
 
 
