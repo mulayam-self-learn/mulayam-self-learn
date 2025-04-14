@@ -9,7 +9,7 @@ public class InterviewTest {
 
 
     public static void main(String[] args) throws Exception {
-System.out.print("hello");
+        System.out.print("hello");
     }
 }
 
